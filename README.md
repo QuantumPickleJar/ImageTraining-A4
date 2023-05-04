@@ -1,4 +1,13 @@
 # ImageTraining-A4
+<h2>Prerequisites</h2>
+<b>Required Packages: (fetch with <code>pip install</code>)</b>
+<ul>
+  <ol><code>keras</code></ol>
+  <ol><code>tensorflow</code></ol>
+  <ol><code>jupyter-notebook</code></ol>
+  <ol><code>scikit</code></ol>
+</ul>
+
 
 
 <h1>FNIST.ipynb</h1>
